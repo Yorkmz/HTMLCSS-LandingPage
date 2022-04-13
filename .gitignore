@@ -7,3 +7,6 @@ node_modules/
 # backstopjs
 backstop_data/html_report/
 backstop_data/bitmaps_test/
+
+#package-lock.jason
+package-lock.jason
